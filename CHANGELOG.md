@@ -1,5 +1,13 @@
 # Changelog Q Applet Stock Quote - USA
 
+## Version 1.0.10 - Jun 20, 2019
+
+Updated image.
+
+## Version 1.0.9 - Jun 18, 2019
+
+API has changed. Fix version while waiting for another solution.
+
 ## Version 1.0.8 - May 14, 2019
 
 Removed internet connection error.
